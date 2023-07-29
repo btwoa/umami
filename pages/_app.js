@@ -44,26 +44,26 @@ export default function App({ Component, pageProps }) {
       >
         <ErrorBoundary>
           <Head>
-            <link rel="icon" href="https://ovo.btwoa.com/img/type/favicon.png" />
+            <link rel="icon" href="https://ovo.btwoa.com/blog.png" />
             <link
               rel="apple-touch-icon"
               sizes="180x180"
-              href="https://ovo.btwoa.com/img/type/favicon.png"
+              href="https://ovo.btwoa.com/blog.png"
             />
             <link
               rel="icon"
               type="image/png"
               sizes="32x32"
-              href="https://ovo.btwoa.com/img/type/favicon.png"
+              href="https://ovo.btwoa.com/blog.png"
             />
             <link
               rel="icon"
               type="image/png"
               sizes="16x16"
-              href="https://ovo.btwoa.com/img/type/favicon.png"
+              href="https://ovo.btwoa.com/blog.png"
             />
             <link rel="manifest" href={`${basePath}/site.webmanifest`} />
-            <link rel="mask-icon" href="https://ovo.btwoa.com/img/type/favicon.svg" />
+            <link rel="mask-icon" href="https://ovo.btwoa.com/blog.svg" />
             <meta name="msapplication-TileColor" content="#da532c" />
             <meta name="theme-color" content="#fafafa" media="(prefers-color-scheme: light)" />
             <meta name="theme-color" content="#2f2f2f" media="(prefers-color-scheme: dark)" />
