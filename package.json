@@ -63,6 +63,7 @@
     "@tanstack/react-query": "^4.16.1",
     "@umami/prisma-client": "^0.2.0",
     "@umami/redis-client": "^0.2.0",
+    "babel-plugin-formatjs": "^10.5.10",
     "chalk": "^4.1.1",
     "chart.js": "^4.2.1",
     "chartjs-adapter-date-fns": "^3.0.0",
